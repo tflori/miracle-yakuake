@@ -2,6 +2,15 @@
 
 A working minimalistic theme for yakuake in black with a coloured line for active tab.
 
+## Installation
+
+You can download an archive and install it in yakuake the usual way. But I recomment to clone the repository -
+then you can simply pull the latest changes.
+
+```console
+$ git clone https://github.com/tflori/miracle-yakuake.git ~/.local/share/yakuake/skins/miracle
+```
+
 ## Background
 
 First I wanted a transparent (85 %) black background. That's how I configure my profile as well. But I found out
