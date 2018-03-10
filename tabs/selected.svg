@@ -16,7 +16,7 @@
    id="svg871"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="selected.svg"
-   inkscape:export-filename="/home/iras/.local/share/yakuake/skins/miracle/tabs/selected_right.png"
+   inkscape:export-filename="/home/iras/.local/share/yakuake/skins/miracle/tabs/selected_back.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="63.356767"
-     inkscape:cx="0.72254876"
-     inkscape:cy="8.8599274"
+     inkscape:zoom="253.42707"
+     inkscape:cx="0.32042967"
+     inkscape:cy="18.896166"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,7 +71,7 @@
        x="0"
        y="291.17914" />
     <rect
-       style="fill:#4db6ac;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215686"
+       style="fill:#16a085;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215686"
        id="rect1420"
        width="0.26458335"
        height="0.26458335"
